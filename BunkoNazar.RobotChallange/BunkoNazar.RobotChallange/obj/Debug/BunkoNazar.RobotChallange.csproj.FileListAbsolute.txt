@@ -1,0 +1,8 @@
+C:\Users\nazar\source\repos\BunkoNazar.RobotChallange\BunkoNazar.RobotChallange\bin\Debug\BunkoNazar.RobotChallange.dll
+C:\Users\nazar\source\repos\BunkoNazar.RobotChallange\BunkoNazar.RobotChallange\bin\Debug\BunkoNazar.RobotChallange.pdb
+C:\Users\nazar\source\repos\BunkoNazar.RobotChallange\BunkoNazar.RobotChallange\bin\Debug\Robot.Common.dll
+C:\Users\nazar\source\repos\BunkoNazar.RobotChallange\BunkoNazar.RobotChallange\obj\Debug\BunkoNazar.RobotChallange.csproj.AssemblyReference.cache
+C:\Users\nazar\source\repos\BunkoNazar.RobotChallange\BunkoNazar.RobotChallange\obj\Debug\BunkoNazar.RobotChallange.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\BunkoNazar.RobotChallange\BunkoNazar.RobotChallange\obj\Debug\BunkoNaz.454E5360.Up2Date
+C:\Users\nazar\source\repos\BunkoNazar.RobotChallange\BunkoNazar.RobotChallange\obj\Debug\BunkoNazar.RobotChallange.dll
+C:\Users\nazar\source\repos\BunkoNazar.RobotChallange\BunkoNazar.RobotChallange\obj\Debug\BunkoNazar.RobotChallange.pdb

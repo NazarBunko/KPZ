@@ -1,0 +1,8 @@
+C:\Users\nazar\source\repos\Energy\Energy\bin\Debug\Energy.dll
+C:\Users\nazar\source\repos\Energy\Energy\bin\Debug\Energy.pdb
+C:\Users\nazar\source\repos\Energy\Energy\bin\Debug\AutoMapper.dll
+C:\Users\nazar\source\repos\Energy\Energy\obj\Debug\Energy.csproj.AssemblyReference.cache
+C:\Users\nazar\source\repos\Energy\Energy\obj\Debug\Energy.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\Energy\Energy\obj\Debug\Energy.csproj.Up2Date
+C:\Users\nazar\source\repos\Energy\Energy\obj\Debug\Energy.dll
+C:\Users\nazar\source\repos\Energy\Energy\obj\Debug\Energy.pdb

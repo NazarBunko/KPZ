@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nazar\\source\\repos\\Energy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|c:\\users\\nazar\\source\\repos\\energy\\energyui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|solutionrelative:energyui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|c:\\users\\nazar\\source\\repos\\energy\\energyui\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|solutionrelative:energyui\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|c:\\users\\nazar\\source\\repos\\energy\\energyui\\viewmodels\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|solutionrelative:energyui\\viewmodels\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|c:\\users\\nazar\\source\\repos\\energy\\energyui\\viewmodels\\dataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|solutionrelative:energyui\\viewmodels\\dataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|c:\\users\\nazar\\source\\repos\\energy\\energyui\\viewmodels\\counterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|solutionrelative:energyui\\viewmodels\\counterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|c:\\users\\nazar\\source\\repos\\energy\\energyui\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|solutionrelative:energyui\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|c:\\users\\nazar\\source\\repos\\energy\\energyui\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|solutionrelative:energyui\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|c:\\users\\nazar\\source\\repos\\energy\\energyui\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|solutionrelative:energyui\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|c:\\users\\nazar\\source\\repos\\energy\\energyui\\views\\reportsusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|solutionrelative:energyui\\views\\reportsusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|c:\\users\\nazar\\source\\repos\\energy\\energyui\\views\\usersusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|solutionrelative:energyui\\views\\usersusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|c:\\users\\nazar\\source\\repos\\energy\\energyui\\views\\countersusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|solutionrelative:energyui\\views\\countersusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF13961-0007-4580-B4D4-DDAA3A0C7409}|Energy\\Energy.csproj|C:\\Users\\nazar\\source\\repos\\Energy\\energy\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF13961-0007-4580-B4D4-DDAA3A0C7409}|Energy\\Energy.csproj|solutionrelative:energy\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|c:\\users\\nazar\\source\\repos\\energy\\energyui\\views\\countersusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|solutionrelative:energyui\\views\\countersusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF13961-0007-4580-B4D4-DDAA3A0C7409}|Energy\\Energy.csproj|C:\\Users\\nazar\\source\\repos\\Energy\\energy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF13961-0007-4580-B4D4-DDAA3A0C7409}|Energy\\Energy.csproj|solutionrelative:energy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|c:\\users\\nazar\\source\\repos\\energy\\energyui\\convertors\\controlvisibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145DFA09-7DBB-4797-857C-9F227B18B1D2}|EnergyUI\\EnergyUI.csproj|solutionrelative:energyui\\convertors\\controlvisibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF13961-0007-4580-B4D4-DDAA3A0C7409}|Energy\\Energy.csproj|C:\\Users\\nazar\\source\\repos\\Energy\\energy\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF13961-0007-4580-B4D4-DDAA3A0C7409}|Energy\\Energy.csproj|solutionrelative:energy\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF13961-0007-4580-B4D4-DDAA3A0C7409}|Energy\\Energy.csproj|C:\\Users\\nazar\\source\\repos\\Energy\\energy\\serialization\\dataserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF13961-0007-4580-B4D4-DDAA3A0C7409}|Energy\\Energy.csproj|solutionrelative:energy\\serialization\\dataserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EnergyUI\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EnergyUI\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:55:31.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "EnergyUI\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "EnergyUI\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:53:23.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "EnergyUI\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "EnergyUI\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:52:47.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\ViewModels\\DataViewModel.cs",
+              "RelativeDocumentMoniker": "EnergyUI\\ViewModels\\DataViewModel.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\ViewModels\\DataViewModel.cs",
+              "RelativeToolTip": "EnergyUI\\ViewModels\\DataViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:06:26.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EnergyUI\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "EnergyUI\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T17:22:50.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Views\\UsersUserControl.xaml",
+              "RelativeDocumentMoniker": "EnergyUI\\Views\\UsersUserControl.xaml",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Views\\UsersUserControl.xaml",
+              "RelativeToolTip": "EnergyUI\\Views\\UsersUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T15:54:11.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CountersUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Views\\CountersUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "EnergyUI\\Views\\CountersUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Views\\CountersUserControl.xaml.cs",
+              "RelativeToolTip": "EnergyUI\\Views\\CountersUserControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:25:47.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\Energy\\User.cs",
+              "RelativeDocumentMoniker": "Energy\\User.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\Energy\\User.cs",
+              "RelativeToolTip": "Energy\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:56:03.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\ViewModels\\Command.cs",
+              "RelativeDocumentMoniker": "EnergyUI\\ViewModels\\Command.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\ViewModels\\Command.cs",
+              "RelativeToolTip": "EnergyUI\\ViewModels\\Command.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:22:09.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "EnergyUI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\App.xaml.cs",
+              "RelativeToolTip": "EnergyUI\\App.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:23:38.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CounterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\ViewModels\\CounterViewModel.cs",
+              "RelativeDocumentMoniker": "EnergyUI\\ViewModels\\CounterViewModel.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\ViewModels\\CounterViewModel.cs",
+              "RelativeToolTip": "EnergyUI\\ViewModels\\CounterViewModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:55:31.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountersUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Views\\CountersUserControl.xaml",
+              "RelativeDocumentMoniker": "EnergyUI\\Views\\CountersUserControl.xaml",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Views\\CountersUserControl.xaml",
+              "RelativeToolTip": "EnergyUI\\Views\\CountersUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T15:55:00.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportsUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Views\\ReportsUserControl.xaml",
+              "RelativeDocumentMoniker": "EnergyUI\\Views\\ReportsUserControl.xaml",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Views\\ReportsUserControl.xaml",
+              "RelativeToolTip": "EnergyUI\\Views\\ReportsUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T12:36:45.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\Energy\\DataModel.cs",
+              "RelativeDocumentMoniker": "Energy\\DataModel.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\Energy\\DataModel.cs",
+              "RelativeToolTip": "Energy\\DataModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:56:56.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ControlVisibility.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Convertors\\ControlVisibility.cs",
+              "RelativeDocumentMoniker": "EnergyUI\\Convertors\\ControlVisibility.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\EnergyUI\\Convertors\\ControlVisibility.cs",
+              "RelativeToolTip": "EnergyUI\\Convertors\\ControlVisibility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:29:05.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\Energy\\Counter.cs",
+              "RelativeDocumentMoniker": "Energy\\Counter.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\Energy\\Counter.cs",
+              "RelativeToolTip": "Energy\\Counter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:19:48.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\source\\repos\\Energy\\Energy\\Serialization\\DataSerializer.cs",
+              "RelativeDocumentMoniker": "Energy\\Serialization\\DataSerializer.cs",
+              "ToolTip": "C:\\Users\\nazar\\source\\repos\\Energy\\Energy\\Serialization\\DataSerializer.cs",
+              "RelativeToolTip": "Energy\\Serialization\\DataSerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:56:37.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
