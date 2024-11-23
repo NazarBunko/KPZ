@@ -1,0 +1,144 @@
+app-navbar{
+  width: 20%;
+}
+
+.main{
+  display: flex;
+  height: 100vh;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: #4CAF50;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #e0e0e0;
+}
+
+
+
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Navbar Styling */
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: #5e5e5e;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: 600;
+    padding: 10px;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #e0e0e0;
+}
+
+/* Card Styling for Book and Author Lists */
+.card {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 26px;
+    color: #444;
+    margin-bottom: 15px;
+}
+
+.line {
+    height: 3px;
+    background-color: #e0e0e0;
+    margin-bottom: 20px;
+}
+
+/* Book and Author List Styling */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    font-size: 18px;
+    color: #333;
+    padding: 8px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+li:last-child {
+    border-bottom: none;
+}
+
+/* Button Styling */
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 12px 18px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+    transform: translateY(-2px);
+}
+
+/* Specific Styles for Appointments */
+.appointments {
+    margin-top: 15px;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 8px 0;
+}
+
+.date {
+    font-size: 16px;
+    color: #777;
+    margin: 4px 0;
+}
+
+.black-text {
+    color: #333;
+}

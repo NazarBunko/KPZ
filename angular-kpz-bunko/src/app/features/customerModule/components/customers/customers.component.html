@@ -1,0 +1,12 @@
+<div class="body">
+  <h2>Available Customers</h2>
+  <div class="line"></div>
+  <button (click)="openModal()">Add Customer</button>
+
+  <div class="appointments" *ngFor="let customer of customers">
+      <p class="name black-text">{{ customer.name }}</p>
+      <p class="date black-text">{{ customer.counter }}</p>
+  </div>
+  
+  <app-customers-modal *ngIf="isModalOpen" (close)="closeModal()" (saveCustomer)="onSaveCustomer($event)"></app-customers-modal>
+</div>

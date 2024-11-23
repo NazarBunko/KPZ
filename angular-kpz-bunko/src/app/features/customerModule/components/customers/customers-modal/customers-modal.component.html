@@ -1,0 +1,23 @@
+<div class="background">
+  <div class="modal">
+    
+    <div class="line"></div>
+    <div class="section">
+      <div class="section title">
+        <span class="section-title">Name Of Customer</span>
+        <input class="black-text" type="text" [(ngModel)]="customer.name" placeholder="Enter name">
+      </div>
+      <div class="section author">
+        <span class="section-value section-title">Counter</span>
+        <input class="black-text" type="text" [(ngModel)]="customer.counter" placeholder="Enter counter">
+      </div>
+    </div>
+
+    <div class="line"></div>
+
+    <div class="button-group">
+      <button class="cancel-button" (click)="closeModal.emit()">Cancel</button>
+      <button class="save-button" (click)="onSave()">Save</button>
+    </div>
+  </div>
+</div>
